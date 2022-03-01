@@ -1,4 +1,4 @@
-# 한국어 문장 관계 분류 경진대회 (DACON주최)
+# 한국어 문장 관계 분류 경진대회\(DACON주최)
 
 # Requirements
 - torch == 1.6.0
@@ -12,7 +12,7 @@
 * test_data.csv
 * sample_submission.csv
 
-COLUMNS : Index , Premise, Hypothesis, label
+COLUMNS : Index , Premise, Hypothesis, label\
 LABEL : contradiction , entailment, neutral
 
 ## Model
